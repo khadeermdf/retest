@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suitenew">
+<suite name="Suitenew">---changes this
     <listeners>
         <!-- Ensure the class name matches exactly -->
         <listener class-name="SecndParty.Listeners"/>
